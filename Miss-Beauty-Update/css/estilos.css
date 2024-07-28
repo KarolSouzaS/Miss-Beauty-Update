@@ -60,6 +60,11 @@ p.truncar-3l {
   .mensagem {
     font-size: 18px;
   }
+  
+  .darkmode-toggle {
+    position: absolute;
+    z-index: 1;
+  }
 
 
 @media screen and (max-width: 469px) {
